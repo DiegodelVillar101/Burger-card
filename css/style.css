@@ -98,3 +98,13 @@ input:checked ~ .details{
     color: rgb(15, 13, 3);
 }
 
+
+@media (max-width: 991px){
+    body{
+        display: grid;
+    }
+}
+
+.card{
+    margin-bottom: 30px;
+}
